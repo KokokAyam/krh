@@ -1,0 +1,33 @@
+﻿{
+	"version": 1616166736,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/perahu-sheet0.png",
+		"images/kanan-sheet0.png",
+		"images/kiri-sheet0.png",
+		"images/kursi-sheet0.png",
+		"images/sapi-sheet0.png",
+		"images/rumput-sheet0.png",
+		"images/macan-sheet0.png",
+		"images/r-sheet0.png",
+		"images/l-sheet0.png",
+		"images/sapiawal-sheet0.png",
+		"images/rumputawal-sheet0.png",
+		"images/macanawal-sheet0.png",
+		"images/cekr-sheet0.png",
+		"images/pemicur-sheet0.png",
+		"images/pemicul-sheet0.png",
+		"images/cekl-sheet0.png",
+		"images/bg-sheet0.png",
+		"images/pelangi-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
